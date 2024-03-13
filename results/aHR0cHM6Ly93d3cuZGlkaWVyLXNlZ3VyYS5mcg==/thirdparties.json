@@ -10,7 +10,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=453843832&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=2002253798&gjid=22780378&cid=869862222.1710331626&tid=GTM-5XKV5HMQ&_gid=322930009.1710331626&_r=1&_slc=1&z=2098653690",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=586386626&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1198863846&gjid=1114049103&cid=1478397866.1710339986&tid=GTM-5XKV5HMQ&_gid=437705838.1710339986&_r=1&_slc=1&z=558542308",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -20,30 +20,30 @@
   "cookies": [],
   "headers": {
     "access-control-allow-origin": "*",
-    "age": "104",
+    "age": "0",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=600",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "863be6d4cc0a200f-IAD",
+    "cf-ray": "863cb2ef7c47fa56-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Wed, 13 Mar 2024 12:07:05 GMT",
-    "expires": "Wed, 13 Mar 2024 12:01:57 GMT",
-    "last-modified": "Fri, 08 Mar 2024 10:11:17 GMT",
+    "date": "Wed, 13 Mar 2024 14:26:25 GMT",
+    "expires": "Wed, 13 Mar 2024 14:35:55 GMT",
+    "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WRyGpheYVV0NbX54JKH92qFXiBb%2FA6t8xi%2FRpsF7Ro%2FkMrwd58POY8ElHEVoj6DwY52tDXnXuS4FQZSmHnlamdWxc3jYjeBqdWZX3eZtq4DmBZIxU2ioh2T87sHrr74ieWzOs8P6BQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=dPP2xKo4B0p%2BmiE5g7hnfx2RQI5HuXiJs3qCDb8cfvcLjZfRAC%2FYiGRaV5dzdyI8BOYcAkYIkMJSucP43EBmUvaDhxg4EbDRXh%2FGL9AnunmmG%2B2iZpvRofMX37qtQEb0DxFQ3UOCiA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "strict-transport-security": "max-age=0; preload",
     "vary": "Accept-Encoding",
     "via": "1.1 varnish",
     "x-cache": "HIT",
-    "x-cache-hits": "6",
+    "x-cache-hits": "1",
     "x-content-type-options": "nosniff",
-    "x-fastly-request-id": "d4949a71a0ff18aea554bf6aa23b4478580e8377",
-    "x-github-request-id": "A4F2:748E:4565EB:54494E:65F1935D",
+    "x-fastly-request-id": "9537a8b3eb0e0f0c641f892e5c98fdbb3abe063e",
+    "x-github-request-id": "BB02:5B5C:167757F:18702C3:65F1B770",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-iad-kiad7000048-IAD",
-    "x-timer": "S1710331626.740859,VS0,VE1"
+    "x-served-by": "cache-sjc10076-SJC",
+    "x-timer": "S1710339986.844601,VS0,VE98"
   },
   "endpoints": [
     {
@@ -68,8 +68,14 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "216.239.32.178",
+      "ip": "142.250.68.110",
       "geoip": {
+        "city": {
+          "geoname_id": 5131638,
+          "names": {
+            "en": "Plainview"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -99,10 +105,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
+          "accuracy_radius": 100,
+          "latitude": 40.7746,
+          "longitude": -73.4761,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11803"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -120,17 +130,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
