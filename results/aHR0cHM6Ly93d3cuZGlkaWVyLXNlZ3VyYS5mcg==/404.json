@@ -1,0 +1,632 @@
+{
+  "links": [
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/",
+        "path": "/",
+        "href": "https://www.didier-segura.fr/"
+      },
+      "link": "https://www.didier-segura.fr/",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/robots.txt",
+        "path": "/robots.txt",
+        "href": "https://www.didier-segura.fr/robots.txt"
+      },
+      "link": "https://www.didier-segura.fr/robots.txt",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/robots.txt",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": "?v=8e22630e961187f6955746baee320676b3ba856c",
+        "query": "v=8e22630e961187f6955746baee320676b3ba856c",
+        "pathname": "/assets/css/style.css",
+        "path": "/assets/css/style.css?v=8e22630e961187f6955746baee320676b3ba856c",
+        "href": "https://www.didier-segura.fr/assets/css/style.css?v=8e22630e961187f6955746baee320676b3ba856c"
+      },
+      "link": "https://www.didier-segura.fr/assets/css/style.css?v=8e22630e961187f6955746baee320676b3ba856c",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/css/style.css?v=8e22630e961187f6955746baee320676b3ba856c",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/img/logo.jpg",
+        "path": "/assets/img/logo.jpg",
+        "href": "https://www.didier-segura.fr/assets/img/logo.jpg"
+      },
+      "link": "https://www.didier-segura.fr/assets/img/logo.jpg",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/img/logo.jpg",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/downloads/cv-didier-segura.pdf",
+        "path": "/assets/downloads/cv-didier-segura.pdf",
+        "href": "https://www.didier-segura.fr/assets/downloads/cv-didier-segura.pdf"
+      },
+      "link": "https://www.didier-segura.fr/assets/downloads/cv-didier-segura.pdf",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/downloads/cv-didier-segura.pdf",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/cdn-cgi/l/email-protection",
+        "path": "/cdn-cgi/l/email-protection",
+        "href": "https://www.didier-segura.fr/cdn-cgi/l/email-protection"
+      },
+      "link": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "path": "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+        "href": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
+      },
+      "link": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/js/scale.fix.js",
+        "path": "/assets/js/scale.fix.js",
+        "href": "https://www.didier-segura.fr/assets/js/scale.fix.js"
+      },
+      "link": "https://www.didier-segura.fr/assets/js/scale.fix.js",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/js/scale.fix.js",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "path": "/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+        "href": "https://www.didier-segura.fr/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js"
+      },
+      "link": "https://www.didier-segura.fr/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": "?",
+        "query": "",
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot?",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot?"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot?",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot?",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
+        "path": "/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": "?",
+        "query": "",
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot?",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot?"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot?",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.eot?",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff2",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.woff",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf",
+      "line": "--2024-03-13 12:08:07--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.ttf",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
+        "path": "/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700/Noto-Sans-700.svg",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": "?",
+        "query": "",
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot?",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot?"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot?",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.eot?",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff2",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.woff",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.ttf",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
+        "path": "/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-italic/Noto-Sans-italic.svg",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": "?",
+        "query": "",
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf",
+      "broken": false
+    },
+    {
+      "url": {
+        "protocol": "https:",
+        "slashes": true,
+        "auth": null,
+        "host": "www.didier-segura.fr",
+        "port": null,
+        "hostname": "www.didier-segura.fr",
+        "hash": null,
+        "search": null,
+        "query": null,
+        "pathname": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
+        "path": "/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
+        "href": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg"
+      },
+      "link": "https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
+      "line": "--2024-03-13 12:08:08--  https://www.didier-segura.fr/assets/fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg",
+      "broken": false
+    }
+  ],
+  "broken": []
+}

@@ -1,0 +1,140 @@
+{
+  "trackers": [
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/analytics.js",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    },
+    {
+      "type": "google analytics",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=453843832&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=2002253798&gjid=22780378&cid=869862222.1710331626&tid=GTM-5XKV5HMQ&_gid=322930009.1710331626&_r=1&_slc=1&z=2098653690",
+      "details": {
+        "id": "google analytics",
+        "message": "Use hosted Matomo instance"
+      }
+    }
+  ],
+  "cookies": [],
+  "headers": {
+    "access-control-allow-origin": "*",
+    "age": "104",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=600",
+    "cf-cache-status": "DYNAMIC",
+    "cf-ray": "863be6d4cc0a200f-IAD",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "date": "Wed, 13 Mar 2024 12:07:05 GMT",
+    "expires": "Wed, 13 Mar 2024 12:01:57 GMT",
+    "last-modified": "Fri, 08 Mar 2024 10:11:17 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WRyGpheYVV0NbX54JKH92qFXiBb%2FA6t8xi%2FRpsF7Ro%2FkMrwd58POY8ElHEVoj6DwY52tDXnXuS4FQZSmHnlamdWxc3jYjeBqdWZX3eZtq4DmBZIxU2ioh2T87sHrr74ieWzOs8P6BQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=0; preload",
+    "vary": "Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-cache": "HIT",
+    "x-cache-hits": "6",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "d4949a71a0ff18aea554bf6aa23b4478580e8377",
+    "x-github-request-id": "A4F2:748E:4565EB:54494E:65F1935D",
+    "x-proxy-cache": "MISS",
+    "x-served-by": "cache-iad-kiad7000048-IAD",
+    "x-timer": "S1710331626.740859,VS0,VE1"
+  },
+  "endpoints": [
+    {
+      "hostname": "www.didier-segura.fr",
+      "ip": "104.21.70.72",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "www.google-analytics.com",
+      "ip": "216.239.32.178",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "time_zone": "America/Los_Angeles"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
