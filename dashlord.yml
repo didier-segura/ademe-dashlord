@@ -26,7 +26,7 @@ tools:
   sonarcloud: true
   budget_page: true
   dsfr: true
-updownioStatusPage: https://updown.io/status_pages
+updownioStatusPage: https://updown.io/r/5QamW
 urls:
   - url: https://www.didier-segura.fr
     category: startup
