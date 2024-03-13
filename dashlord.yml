@@ -1,37 +1,34 @@
-title: DashLord example
-description: Bonnes pratiques techniques
-entity: Votre entité
-footer: Powered by SocialGouv
-marianne: false
+title: DashLord Accélérateur de la transition écologique
+description: Bonnes pratiques techniques de l'ADEME
+entity: République Française
+footer: Accélérateur de la transition écologique
+marianne: true
 tools:
   "404": true
   screenshot: true
-  nmap: true
-  zap: true
-  wappalyzer: true
-  http: true
-  testssl: true
   lighthouse: true
-  thirdparties: true
+  testssl: true
+  wappalyzer: true
   nuclei: true
-  updownio: false
+  zap: true
+  thirdparties: true
   dependabot: true
   codescan: true
-  stats: false
+  updownio: true
+  http: true
+  nmap: true
+  stats: true
+  trivy: false
   declaration-a11y: true
-  ecoindex: true
-  dsfr: true
+  declaration-rgpd: true
   betagouv: true
-columns: # pour masquer des colonnes
-  zap: false
+  ecoindex: true
+  sonarcloud: true
+  budget_page: true
+  dsfr: true
 updownioStatusPage: https://updown.io/status_pages
-updownioRecipients:
-  - email:123456
-  - email:789987
 urls:
-  - url: https://www.fabrique.social.gouv.fr
-    repositories:
-      - socialgouv/www
-    docker:
-      - ghcr.io/socialgouv/fabrique/frontend
-  - url: https://beta.gouv.fr
+  - url: https://www.didier-segura.fr
+    category: startup
+    tags:
+      - production
