@@ -7,7 +7,7 @@ tools:
   "404": true
   screenshot: true
   lighthouse: true
-  testssl: true
+  testssl: false
   wappalyzer: true
   nuclei: true
   zap: true
