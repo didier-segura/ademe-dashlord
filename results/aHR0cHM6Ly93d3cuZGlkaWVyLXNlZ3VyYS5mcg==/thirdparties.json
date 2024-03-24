@@ -10,7 +10,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1668432651&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1357275738&gjid=1364117957&cid=2010335789.1710636742&tid=GTM-5XKV5HMQ&_gid=314328965.1710636742&_r=1&_slc=1&z=1093360397",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1444863482&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1794227633&gjid=1783919533&cid=1114700187.1711241666&tid=GTM-5XKV5HMQ&_gid=1778193275.1711241666&_r=1&_slc=1&z=868997768",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -20,18 +20,18 @@
   "cookies": [],
   "headers": {
     "access-control-allow-origin": "*",
-    "age": "0",
+    "age": "29",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=600",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8658fff17d4e29bc-IAD",
+    "cf-ray": "8692b098a990228b-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 17 Mar 2024 00:52:21 GMT",
-    "expires": "Sun, 17 Mar 2024 01:01:48 GMT",
+    "date": "Sun, 24 Mar 2024 00:54:25 GMT",
+    "expires": "Sun, 24 Mar 2024 01:03:56 GMT",
     "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ER3D4B%2FBxmYNnHRolle9oQovXZiE2BFOhSc%2B0qRRxgVOeO6SobiLv%2BWQ3uEB6ZeBnoBYhfQra78IeMA%2FUJzQaEBTSW5a2dZlHcUIULktWRXEQHuuBeW3Eaa%2FpSn2w9CyHtMeJsrU9Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=qvW7Qxk6P0Opwp8S6lpsJKX7nmaZ8vdRcJay0et%2F276ZntiQp3Zcy3C4UoIr5D%2FTD8BhZl6mvAcIAEIeT4LpY7S1shUmGS3kFPtSOVhVXuA07S2%2BsLpVQYuMc%2Fhl5Mn6q7DxNvyzBA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "strict-transport-security": "max-age=0; preload",
     "vary": "Accept-Encoding",
@@ -39,11 +39,11 @@
     "x-cache": "HIT",
     "x-cache-hits": "1",
     "x-content-type-options": "nosniff",
-    "x-fastly-request-id": "b6a57b4f4515d130053554794100a0717c572fe6",
-    "x-github-request-id": "B13A:95FE:89C434:AD5B46:65F63EA4",
+    "x-fastly-request-id": "bed989573b127d59e86ab7c78ed3f59584d23ca9",
+    "x-github-request-id": "AC8E:0C26:1AD83D6:1CB9506:65FF79A2",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-iad-kiad7000043-IAD",
-    "x-timer": "S1710636741.374826,VS0,VE8"
+    "x-served-by": "cache-sjc10072-SJC",
+    "x-timer": "S1711241665.394651,VS0,VE1"
   },
   "endpoints": [
     {
@@ -102,7 +102,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.253.115.100",
+      "ip": "172.217.164.110",
       "geoip": {
         "continent": {
           "code": "NA",
