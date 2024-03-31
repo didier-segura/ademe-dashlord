@@ -10,7 +10,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1444863482&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1794227633&gjid=1783919533&cid=1114700187.1711241666&tid=GTM-5XKV5HMQ&_gid=1778193275.1711241666&_r=1&_slc=1&z=868997768",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1720701897&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1022757727&gjid=1572850703&cid=2078427515.1711846475&tid=GTM-5XKV5HMQ&_gid=2043072218.1711846475&_r=1&_slc=1&z=740243427",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -20,18 +20,18 @@
   "cookies": [],
   "headers": {
     "access-control-allow-origin": "*",
-    "age": "29",
+    "age": "30",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=600",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "8692b098a990228b-SJC",
+    "cf-ray": "86cc5e706adbfa72-SJC",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 24 Mar 2024 00:54:25 GMT",
-    "expires": "Sun, 24 Mar 2024 01:03:56 GMT",
+    "date": "Sun, 31 Mar 2024 00:54:34 GMT",
+    "expires": "Sun, 31 Mar 2024 01:04:04 GMT",
     "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=qvW7Qxk6P0Opwp8S6lpsJKX7nmaZ8vdRcJay0et%2F276ZntiQp3Zcy3C4UoIr5D%2FTD8BhZl6mvAcIAEIeT4LpY7S1shUmGS3kFPtSOVhVXuA07S2%2BsLpVQYuMc%2Fhl5Mn6q7DxNvyzBA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=378hrCpI9jH9XTDxfZKwVT9fvSW4OW%2FfcLfutGBW58nJzQ4n5CEUWtTI2S9MOVfNakcxy3vTPBASah328SywBttGIOu%2BXyV30MnkryMtkXBxGoSJMytCtQdzXzC1ZIap6Cip0Wie1Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "strict-transport-security": "max-age=0; preload",
     "vary": "Accept-Encoding",
@@ -39,11 +39,11 @@
     "x-cache": "HIT",
     "x-cache-hits": "1",
     "x-content-type-options": "nosniff",
-    "x-fastly-request-id": "bed989573b127d59e86ab7c78ed3f59584d23ca9",
-    "x-github-request-id": "AC8E:0C26:1AD83D6:1CB9506:65FF79A2",
+    "x-fastly-request-id": "6b389138597767bcad73adbba98a64bdc6e529a4",
+    "x-github-request-id": "C450:5DD69:710286:84E580:6608B42B",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-sjc10072-SJC",
-    "x-timer": "S1711241665.394651,VS0,VE1"
+    "x-served-by": "cache-sjc10083-SJC",
+    "x-timer": "S1711846474.329716,VS0,VE1"
   },
   "endpoints": [
     {
@@ -102,7 +102,7 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "172.217.164.110",
+      "ip": "216.239.34.178",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -134,9 +134,9 @@
         },
         "location": {
           "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
+          "latitude": 34.0544,
+          "longitude": -118.244,
+          "time_zone": "America/Los_Angeles"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -151,7 +151,23 @@
             "ru": "США",
             "zh-CN": "美国"
           }
-        }
+        },
+        "subdivisions": [
+          {
+            "geoname_id": 5332921,
+            "iso_code": "CA",
+            "names": {
+              "de": "Kalifornien",
+              "en": "California",
+              "es": "California",
+              "fr": "Californie",
+              "ja": "カリフォルニア州",
+              "pt-BR": "Califórnia",
+              "ru": "Калифорния",
+              "zh-CN": "加州"
+            }
+          }
+        ]
       }
     }
   ]
