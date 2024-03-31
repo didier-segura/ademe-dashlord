@@ -9,42 +9,42 @@
     "http": {
       "url": "https://www.didier-segura.fr",
       "algorithm_version": 3,
-      "end_time": "Sun, 24 Mar 2024 00:57:23 GMT",
+      "end_time": "Sun, 31 Mar 2024 00:58:05 GMT",
       "grade": "D",
       "hidden": false,
       "likelihood_indicator": "MEDIUM",
       "response_headers": {
-        "Age": "0",
+        "Age": "1",
         "CF-Cache-Status": "DYNAMIC",
-        "CF-RAY": "8692b4e918ddc3b1-SEA",
+        "CF-RAY": "86cc6390bc328398-SEA",
         "Cache-Control": "max-age=600",
         "Connection": "keep-alive",
         "Content-Encoding": "gzip",
         "Content-Type": "text/html; charset=utf-8",
-        "Date": "Sun, 24 Mar 2024 00:57:22 GMT",
+        "Date": "Sun, 31 Mar 2024 00:58:04 GMT",
         "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9ggyBi0RLf%2FzB7f549faXUl9ZWoHn4L9cnyYOYAgobb4Xx7TMOU5LXqcDt39Y0lMQrrS%2FLHepUYRu3s8svE7UDkS%2BNbb0a5jJxQ1bDp8mEB045s%2FlvDAMRN%2FeUJ1neAFUtMDzc%2FSFQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=xDBkZpSBroEkCUTajkaT4WCPGesqcV1%2BvJhZhlT%2BUVlcmxlUEU4b8dlIrOWfRNUrEwqwQHle13rFHOkxFS3Pt3xIThSG0GfjtGZqmfchdtNxnUe6P7Zbcxy0GhN%2FxiSff6EABcq1ug%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
         "Server": "cloudflare",
         "Strict-Transport-Security": "max-age=0; preload",
         "Transfer-Encoding": "chunked",
         "X-Content-Type-Options": "nosniff",
         "access-control-allow-origin": "*",
         "alt-svc": "h3=\":443\"; ma=86400",
-        "expires": "Sun, 24 Mar 2024 01:07:21 GMT",
+        "expires": "Sun, 31 Mar 2024 01:08:03 GMT",
         "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
         "vary": "Accept-Encoding",
         "via": "1.1 varnish",
         "x-cache": "HIT",
         "x-cache-hits": "1",
-        "x-fastly-request-id": "24f53ebec907acb20c235462b6c16faf80b0e2b2",
-        "x-github-request-id": "C3C4:0C26:1ADA88A:1CBBDCD:65FF7A71",
+        "x-fastly-request-id": "a64de316f1bc065fa1c37fafc059f8d9ab0e6df9",
+        "x-github-request-id": "86E8:26CB87:690825:7D05B2:6608B51A",
         "x-proxy-cache": "MISS",
-        "x-served-by": "cache-pao-kpao1770075-PAO",
-        "x-timer": "S1711241842.165707,VS0,VE1"
+        "x-served-by": "cache-pao-kpao1770083-PAO",
+        "x-timer": "S1711846684.341322,VS0,VE2"
       },
-      "scan_id": 49223090,
+      "scan_id": 49491081,
       "score": 35,
-      "start_time": "Sun, 24 Mar 2024 00:57:21 GMT",
+      "start_time": "Sun, 31 Mar 2024 00:58:02 GMT",
       "state": "FINISHED",
       "status_code": 200,
       "tests_failed": 3,
@@ -212,7 +212,7 @@
         },
         {
           "type": "google analytics",
-          "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1444863482&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1794227633&gjid=1783919533&cid=1114700187.1711241666&tid=GTM-5XKV5HMQ&_gid=1778193275.1711241666&_r=1&_slc=1&z=868997768",
+          "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1720701897&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1022757727&gjid=1572850703&cid=2078427515.1711846475&tid=GTM-5XKV5HMQ&_gid=2043072218.1711846475&_r=1&_slc=1&z=740243427",
           "details": {
             "id": "google analytics",
             "message": "Use hosted Matomo instance"
@@ -222,18 +222,18 @@
       "cookies": [],
       "headers": {
         "access-control-allow-origin": "*",
-        "age": "29",
+        "age": "30",
         "alt-svc": "h3=\":443\"; ma=86400",
         "cache-control": "max-age=600",
         "cf-cache-status": "DYNAMIC",
-        "cf-ray": "8692b098a990228b-SJC",
+        "cf-ray": "86cc5e706adbfa72-SJC",
         "content-encoding": "br",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sun, 24 Mar 2024 00:54:25 GMT",
-        "expires": "Sun, 24 Mar 2024 01:03:56 GMT",
+        "date": "Sun, 31 Mar 2024 00:54:34 GMT",
+        "expires": "Sun, 31 Mar 2024 01:04:04 GMT",
         "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
         "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=qvW7Qxk6P0Opwp8S6lpsJKX7nmaZ8vdRcJay0et%2F276ZntiQp3Zcy3C4UoIr5D%2FTD8BhZl6mvAcIAEIeT4LpY7S1shUmGS3kFPtSOVhVXuA07S2%2BsLpVQYuMc%2Fhl5Mn6q7DxNvyzBA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=378hrCpI9jH9XTDxfZKwVT9fvSW4OW%2FfcLfutGBW58nJzQ4n5CEUWtTI2S9MOVfNakcxy3vTPBASah328SywBttGIOu%2BXyV30MnkryMtkXBxGoSJMytCtQdzXzC1ZIap6Cip0Wie1Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
         "server": "cloudflare",
         "strict-transport-security": "max-age=0; preload",
         "vary": "Accept-Encoding",
@@ -241,11 +241,11 @@
         "x-cache": "HIT",
         "x-cache-hits": "1",
         "x-content-type-options": "nosniff",
-        "x-fastly-request-id": "bed989573b127d59e86ab7c78ed3f59584d23ca9",
-        "x-github-request-id": "AC8E:0C26:1AD83D6:1CB9506:65FF79A2",
+        "x-fastly-request-id": "6b389138597767bcad73adbba98a64bdc6e529a4",
+        "x-github-request-id": "C450:5DD69:710286:84E580:6608B42B",
         "x-proxy-cache": "MISS",
-        "x-served-by": "cache-sjc10072-SJC",
-        "x-timer": "S1711241665.394651,VS0,VE1"
+        "x-served-by": "cache-sjc10083-SJC",
+        "x-timer": "S1711846474.329716,VS0,VE1"
       },
       "endpoints": [
         {
@@ -304,7 +304,7 @@
         },
         {
           "hostname": "www.google-analytics.com",
-          "ip": "172.217.164.110",
+          "ip": "216.239.34.178",
           "geoip": {
             "continent": {
               "code": "NA",
@@ -336,9 +336,9 @@
             },
             "location": {
               "accuracy_radius": 1000,
-              "latitude": 37.751,
-              "longitude": -97.822,
-              "time_zone": "America/Chicago"
+              "latitude": 34.0544,
+              "longitude": -118.244,
+              "time_zone": "America/Los_Angeles"
             },
             "registered_country": {
               "geoname_id": 6252001,
@@ -353,7 +353,23 @@
                 "ru": "США",
                 "zh-CN": "美国"
               }
-            }
+            },
+            "subdivisions": [
+              {
+                "geoname_id": 5332921,
+                "iso_code": "CA",
+                "names": {
+                  "de": "Kalifornien",
+                  "en": "California",
+                  "es": "California",
+                  "fr": "Californie",
+                  "ja": "カリフォルニア州",
+                  "pt-BR": "Califórnia",
+                  "ru": "Калифорния",
+                  "zh-CN": "加州"
+                }
+              }
+            ]
           }
         }
       ]
@@ -585,7 +601,7 @@
     "zap": {
       "@programName": "ZAP",
       "@version": "2.14.0",
-      "@generated": "Sun, 24 Mar 2024 00:56:57",
+      "@generated": "Sun, 31 Mar 2024 00:57:37",
       "site": [
         {
           "@name": "https://www.didier-segura.fr",
@@ -770,7 +786,7 @@
         "type": "dns",
         "host": "www.didier-segura.fr.",
         "matched-at": "www.didier-segura.fr",
-        "timestamp": "2024-03-24T00:57:39.249136023Z",
+        "timestamp": "2024-03-31T00:58:23.579929266Z",
         "matcher-status": true
       },
       {
@@ -803,7 +819,7 @@
           "Jekyll v3.9.5"
         ],
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:05.76652008Z",
+        "timestamp": "2024-03-31T00:58:49.125560275Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -830,44 +846,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:05.789668137Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "content-security-policy",
-        "type": "http",
-        "host": "https://www.didier-segura.fr",
-        "matched-at": "https://www.didier-segura.fr",
-        "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254014943Z",
+        "timestamp": "2024-03-31T00:58:49.148469154Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -904,81 +883,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254054747Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "clear-site-data",
-        "type": "http",
-        "host": "https://www.didier-segura.fr",
-        "matched-at": "https://www.didier-segura.fr",
-        "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254069705Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "cross-origin-embedder-policy",
-        "type": "http",
-        "host": "https://www.didier-segura.fr",
-        "matched-at": "https://www.didier-segura.fr",
-        "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254086226Z",
+        "timestamp": "2024-03-31T00:58:54.680148833Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -1015,7 +920,44 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254100222Z",
+        "timestamp": "2024-03-31T00:58:54.680195589Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "content-security-policy",
+        "type": "http",
+        "host": "https://www.didier-segura.fr",
+        "matched-at": "https://www.didier-segura.fr",
+        "ip": "172.67.221.24",
+        "timestamp": "2024-03-31T00:58:54.680214504Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -1052,7 +994,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254115871Z",
+        "timestamp": "2024-03-31T00:58:54.680226907Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -1089,44 +1031,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254133183Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "x-permitted-cross-domain-policies",
-        "type": "http",
-        "host": "https://www.didier-segura.fr",
-        "matched-at": "https://www.didier-segura.fr",
-        "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254146518Z",
+        "timestamp": "2024-03-31T00:58:54.680240322Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -1163,7 +1068,118 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:11.254161646Z",
+        "timestamp": "2024-03-31T00:58:54.680254288Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "x-permitted-cross-domain-policies",
+        "type": "http",
+        "host": "https://www.didier-segura.fr",
+        "matched-at": "https://www.didier-segura.fr",
+        "ip": "172.67.221.24",
+        "timestamp": "2024-03-31T00:58:54.680269065Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "clear-site-data",
+        "type": "http",
+        "host": "https://www.didier-segura.fr",
+        "matched-at": "https://www.didier-segura.fr",
+        "ip": "172.67.221.24",
+        "timestamp": "2024-03-31T00:58:54.680283592Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "cross-origin-embedder-policy",
+        "type": "http",
+        "host": "https://www.didier-segura.fr",
+        "matched-at": "https://www.didier-segura.fr",
+        "ip": "172.67.221.24",
+        "timestamp": "2024-03-31T00:58:54.68029835Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
         "matcher-status": true
       },
@@ -1193,7 +1209,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr/README.md",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:15.658140007Z",
+        "timestamp": "2024-03-31T00:58:59.032781895Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr/README.md'",
         "matcher-status": true
       },
@@ -1228,8 +1244,48 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:23.719192374Z",
+        "timestamp": "2024-03-31T00:59:07.618991919Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/technologies/waf-detect.yaml",
+        "template-url": "https://templates.nuclei.sh/public/waf-detect",
+        "template-id": "waf-detect",
+        "template-path": "/home/runner/nuclei-templates/http/technologies/waf-detect.yaml",
+        "info": {
+          "name": "WAF Detection",
+          "author": [
+            "dwisiswant0",
+            "lu4nx"
+          ],
+          "tags": [
+            "waf",
+            "tech",
+            "misc"
+          ],
+          "description": "A web application firewall was detected.",
+          "reference": [
+            "https://github.com/ekultek/whatwaf"
+          ],
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          },
+          "classification": {
+            "cve-id": null,
+            "cwe-id": [
+              "cwe-200"
+            ]
+          }
+        },
+        "matcher-name": "cloudflare",
+        "type": "http",
+        "host": "https://www.didier-segura.fr",
+        "matched-at": "https://www.didier-segura.fr/",
+        "ip": "172.67.221.24",
+        "timestamp": "2024-03-31T00:59:09.758520682Z",
+        "curl-command": "curl -X 'POST' -d '_=<script>alert(1)</script>' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Host: www.didier-segura.fr' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr/'",
         "matcher-status": true
       },
       {
@@ -1268,47 +1324,7 @@
         "host": "https://www.didier-segura.fr",
         "matched-at": "https://www.didier-segura.fr/",
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:26.259302777Z",
-        "curl-command": "curl -X 'POST' -d '_=<script>alert(1)</script>' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Host: www.didier-segura.fr' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr/'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/technologies/waf-detect.yaml",
-        "template-url": "https://templates.nuclei.sh/public/waf-detect",
-        "template-id": "waf-detect",
-        "template-path": "/home/runner/nuclei-templates/http/technologies/waf-detect.yaml",
-        "info": {
-          "name": "WAF Detection",
-          "author": [
-            "dwisiswant0",
-            "lu4nx"
-          ],
-          "tags": [
-            "waf",
-            "tech",
-            "misc"
-          ],
-          "description": "A web application firewall was detected.",
-          "reference": [
-            "https://github.com/ekultek/whatwaf"
-          ],
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          },
-          "classification": {
-            "cve-id": null,
-            "cwe-id": [
-              "cwe-200"
-            ]
-          }
-        },
-        "matcher-name": "cloudflare",
-        "type": "http",
-        "host": "https://www.didier-segura.fr",
-        "matched-at": "https://www.didier-segura.fr/",
-        "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T00:58:26.259355405Z",
+        "timestamp": "2024-03-31T00:59:09.758569112Z",
         "curl-command": "curl -X 'POST' -d '_=<script>alert(1)</script>' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Host: www.didier-segura.fr' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.didier-segura.fr/'",
         "matcher-status": true
       },
@@ -1340,7 +1356,7 @@
           "tls13"
         ],
         "ip": "172.67.221.24",
-        "timestamp": "2024-03-24T01:02:10.36072363Z",
+        "timestamp": "2024-03-31T01:02:35.962533224Z",
         "matcher-status": true
       }
     ],
@@ -1348,8 +1364,10 @@
       {
         "requestedUrl": "https://www.didier-segura.fr/",
         "finalUrl": "https://www.didier-segura.fr/",
-        "fetchTime": "2024-03-24T00:57:12.146Z",
-        "runWarnings": [],
+        "fetchTime": "2024-03-31T00:57:52.707Z",
+        "runWarnings": [
+          "The tested device appears to have a slower CPU than  Lighthouse expects. This can negatively affect your performance score. Learn more about [calibrating an appropriate CPU slowdown multiplier](https://github.com/GoogleChrome/lighthouse/blob/master/docs/throttling.md#cpu-throttling)."
+        ],
         "categories": {
           "performance": {
             "title": "Performance",
@@ -1411,53 +1429,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 3242,
+            "numericValue": 3194,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 1242,
-                  "firstMeaningfulPaint": 1242,
-                  "largestContentfulPaint": 3842,
-                  "interactive": 3242,
-                  "speedIndex": 1985,
-                  "totalBlockingTime": 125,
-                  "maxPotentialFID": 182,
+                  "firstContentfulPaint": 1305,
+                  "firstMeaningfulPaint": 1305,
+                  "largestContentfulPaint": 3946,
+                  "interactive": 3194,
+                  "speedIndex": 1893,
+                  "totalBlockingTime": 247,
+                  "maxPotentialFID": 402,
                   "cumulativeLayoutShift": 0,
                   "cumulativeLayoutShiftMainFrame": 0,
                   "totalCumulativeLayoutShift": 0,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 644071921,
+                  "observedTimeOriginTs": 471181071,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 644071921,
-                  "observedFirstPaint": 246,
-                  "observedFirstPaintTs": 644318155,
-                  "observedFirstContentfulPaint": 246,
-                  "observedFirstContentfulPaintTs": 644318155,
-                  "observedFirstContentfulPaintAllFrames": 246,
-                  "observedFirstContentfulPaintAllFramesTs": 644318155,
-                  "observedFirstMeaningfulPaint": 256,
-                  "observedFirstMeaningfulPaintTs": 644327962,
-                  "observedLargestContentfulPaint": 246,
-                  "observedLargestContentfulPaintTs": 644318155,
-                  "observedLargestContentfulPaintAllFrames": 246,
-                  "observedLargestContentfulPaintAllFramesTs": 644318155,
-                  "observedTraceEnd": 2607,
-                  "observedTraceEndTs": 646679050,
-                  "observedLoad": 161,
-                  "observedLoadTs": 644233305,
-                  "observedDomContentLoaded": 60,
-                  "observedDomContentLoadedTs": 644131945,
+                  "observedNavigationStartTs": 471181071,
+                  "observedFirstPaint": 272,
+                  "observedFirstPaintTs": 471453356,
+                  "observedFirstContentfulPaint": 272,
+                  "observedFirstContentfulPaintTs": 471453356,
+                  "observedFirstContentfulPaintAllFrames": 272,
+                  "observedFirstContentfulPaintAllFramesTs": 471453356,
+                  "observedFirstMeaningfulPaint": 272,
+                  "observedFirstMeaningfulPaintTs": 471453356,
+                  "observedLargestContentfulPaint": 272,
+                  "observedLargestContentfulPaintTs": 471453356,
+                  "observedLargestContentfulPaintAllFrames": 272,
+                  "observedLargestContentfulPaintAllFramesTs": 471453356,
+                  "observedTraceEnd": 2594,
+                  "observedTraceEndTs": 473774997,
+                  "observedLoad": 87,
+                  "observedLoadTs": 471267747,
+                  "observedDomContentLoaded": 66,
+                  "observedDomContentLoadedTs": 471247017,
                   "observedCumulativeLayoutShift": 0,
                   "observedCumulativeLayoutShiftMainFrame": 0,
                   "observedTotalCumulativeLayoutShift": 0,
-                  "observedFirstVisualChange": 252,
-                  "observedFirstVisualChangeTs": 644323921,
-                  "observedLastVisualChange": 268,
-                  "observedLastVisualChangeTs": 644339921,
-                  "observedSpeedIndex": 254,
-                  "observedSpeedIndexTs": 644325726
+                  "observedFirstVisualChange": 233,
+                  "observedFirstVisualChangeTs": 471414071,
+                  "observedLastVisualChange": 233,
+                  "observedLastVisualChangeTs": 471414071,
+                  "observedSpeedIndex": 233,
+                  "observedSpeedIndexTs": 471414476
                 },
                 {
                   "lcpInvalidated": false
@@ -1479,19 +1497,19 @@
                   "numScripts": 4,
                   "numStylesheets": 1,
                   "numFonts": 3,
-                  "numTasks": 155,
-                  "numTasksOver10ms": 3,
+                  "numTasks": 164,
+                  "numTasksOver10ms": 4,
                   "numTasksOver25ms": 3,
-                  "numTasksOver50ms": 2,
-                  "numTasksOver100ms": 0,
+                  "numTasksOver50ms": 1,
+                  "numTasksOver100ms": 1,
                   "numTasksOver500ms": 0,
-                  "rtt": 2.0620000000000003,
-                  "throughput": 275143377.0017696,
-                  "maxRtt": 2.77,
-                  "maxServerLatency": 9.550999999999998,
-                  "totalByteWeight": 378047,
-                  "totalTaskTime": 223.89899999999977,
-                  "mainDocumentTransferSize": 4259
+                  "rtt": 1.9460000000000002,
+                  "throughput": 272153333.93266755,
+                  "maxRtt": 2.298,
+                  "maxServerLatency": 11.040000000000001,
+                  "totalByteWeight": 378055,
+                  "totalTaskTime": 220.13899999999995,
+                  "mainDocumentTransferSize": 4252
                 }
               ]
             }
@@ -1534,7 +1552,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.didier-segura.fr",
-        "size": 420.09,
+        "size": 420.104,
         "nodes": 187,
         "requests": 12,
         "grade": "A",
@@ -1542,7 +1560,7 @@
         "ges": 1.28,
         "water": 1.92,
         "ecoindex_version": "5.4.2",
-        "date": "2024-03-24 00:55:16.418507",
+        "date": "2024-03-31 00:55:25.120011",
         "page_type": "website"
       }
     ],
