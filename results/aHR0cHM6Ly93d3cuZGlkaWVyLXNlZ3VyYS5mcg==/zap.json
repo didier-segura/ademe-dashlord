@@ -1,7 +1,7 @@
 {
 	"@programName": "ZAP",
 	"@version": "2.14.0",
-	"@generated": "Sun, 31 Mar 2024 00:57:37",
+	"@generated": "Sun, 7 Apr 2024 00:57:21",
 	"site":[ 
 		{
 			"@name": "https://www.didier-segura.fr",
@@ -254,7 +254,7 @@
 					"reference": "<p>https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options</p>",
 					"cweid": "1021",
 					"wascid": "15",
-					"sourceid": "7"
+					"sourceid": "1"
 				},
 				{
 					"pluginid": "90003",
@@ -533,7 +533,7 @@
 					"reference": "<p>https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html</p><p>https://owasp.org/www-community/Security_Headers</p><p>https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security</p><p>https://caniuse.com/stricttransportsecurity</p><p>https://datatracker.ietf.org/doc/html/rfc6797</p>",
 					"cweid": "319",
 					"wascid": "15",
-					"sourceid": "16"
+					"sourceid": "22"
 				},
 				{
 					"pluginid": "10094",
@@ -550,48 +550,48 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "FKFo6myNHXVkm7h7T4TlMhH7xW2l7UvU7BNxAO",
-							"otherinfo": "\\x0014\uFFFDh\uFFFDl\uFFFD\\x001dud\uFFFD\uFFFD{O\uFFFD\uFFFD2\\x0011\uFFFD\uFFFDm\uFFFD\uFFFDK\uFFFD\uFFFD\\x0013q\\x0000"
-						},
-						{
-							"uri": "https://www.didier-segura.fr",
-							"method": "GET",
-							"param": "",
-							"attack": "",
-							"evidence": "2Bf7LxX2dLNJN1hODMa2GuOryllUOAycY2ixsmlV7ScCPmWoZhuoIf7bsiPqhpJWNMg6vMjnvIS4EWmTI1UNv75Zl7uMHaXA6r6NyCDhCEw",
-							"otherinfo": "\uFFFD\\x0017\uFFFD/\\x0015\uFFFDt\uFFFDI7XN\\x000c\u01B6\\x001a\uFFFD\uFFFDYT8\\x000c\uFFFDch\uFFFD\uFFFDiU\uFFFD'\\x0002>e\uFFFDf\\x001b\uFFFD!\uFFFD\u06F2#\uA192V4\uFFFD:\uFFFD\uFFFD\u7F04\uFFFD\\x0011i\uFFFD#U\r\uFFFD\uFFFDY\uFFFD\uFFFD\uFFFD\\x001d\uFFFD\uFFFD\uAF8D\uFFFD \uFFFD\\x0008L"
+							"evidence": "2BEPUw6OGd8sjBBzk7a0yA4k66DUuX4a8gMriaXGHFGzV5oWXiuA73BxgDeznaG",
+							"otherinfo": "\uFFFD\\x0011\\x000fS\\x000e\uFFFD\\x0019\uFFFD,\uFFFD\\x0010s\uFFFD\uFFFD\uFFFD\uFFFD\\x000e$\uFFFD\u0539~\\x001a\uFFFD\\x0003+\uFFFD\uFFFD\uFFFD\\x001cQ\uFFFDW\uFFFD\\x0016^+\uFFFD\uFFFDpq\uFFFD7\uFFFD\uFFFD\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "ry3qzYzZ367APBjdHodecVRkQkaFtUdh26AN8R",
-							"otherinfo": "\uFFFD-\uFFFD\u034C\uFFFD\u07EE\uFFFD<\\x0018\uFFFD\\x001e\uFFFD^qTdBF\uFFFD\uFFFDGa\u06E0\r\uFFFD"
+							"evidence": "8cU2LnODxYXoieO1q9uaxuhWyGVPscpGXZdMifYdMm",
+							"otherinfo": "\uFFFD\uFFFD6.s\uFFFD\u0145\uFFFD\u3D6B\u06DA\uFFFD\uFFFDV\uFFFDeO\uFFFD\uFFFDF]\uFFFDL\uFFFD\uFFFD\\x001d2"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/assets/css/style.css?v=a95a0b198e8faa654fc73a07c98f6f7d6c25cea9",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "oian8MW2Egr2Wj6zQf8URBpQN2xGCnQELtZ9N8",
-							"otherinfo": "\uFFFD&\uFFFD\uFFFD\u0176\\x0012\n\uFFFDZ>\uFFFDA\uFFFD\\x0014D\\x001aP7lF\nt\\x0004.\uFFFD}7"
+							"evidence": "/fonts/Noto-Sans-700/Noto-Sans-700",
+							"otherinfo": "\uFFFD\uFFFD'\uFFFD\uFFFD\u0362\uFFFD>I\uFFFD\uFFFD\uFFFD\uFFFD4\uFFFD\uFFFD-\uFFFD\u469E\u03FB\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/assets/downloads/cv-didier-segura.pdf",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "2BVToo6rrozCLPfEOnTRk8fpVlcvT1IvOyI8xAkbasb70nNl4LHVP0OBassWy2SN",
-							"otherinfo": "\uFFFD\\x0015S\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD,\uFFFD\uFFFD:t\u0453\uFFFD\uFFFDVW/OR/;\"<\uFFFD\t\\x001bj\uFFFD\uFFFD\uFFFDse\uFFFD\uFFFD?C\uFFFDj\uFFFD\\x0016\uFFFDd\uFFFD"
+							"evidence": "2BM6WssmWPFsROlBxoomD2MOdWk20ZqgoFziuq4y18h",
+							"otherinfo": "\uFFFD\\x0013:Z\uFFFD&X\uFFFDlD\uFFFDA\u018A&\\x000fc\\x000eui6\u045A\uFFFD\uFFFD\\\u2EAE2\uFFFD\uFFFD"
+						},
+						{
+							"uri": "https://www.didier-segura.fr/assets/img/logo.jpg",
+							"method": "GET",
+							"param": "",
+							"attack": "",
+							"evidence": "2BYvgn0Q5iRVGT6siD6gyLxjGl9fCDMlRFl36YH",
+							"otherinfo": "\uFFFD\\x0016/\uFFFD}\\x0010\uFFFD$U\\x0019>\uFFFD\uFFFD>\uFFFD\u023Cc\\x001a__\\x00083%DYw\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/assets/js/scale.fix.js",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "2FxX0lOcwozjM0eyPBOevvCqYbEjp0kKpvCGU7BfaJ62zlwUcpmS",
-							"otherinfo": "\uFFFD\\W\uFFFDS\uFFFD\u008C\uFFFD3G\uFFFD<\\x0013\uFFFD\uFFFD\uFFFDa\uFFFD#\uFFFDI\n\uFFFD\uFFFD\uFFFDS\uFFFD_h\uFFFD\uFFFD\uFFFD\\\\x0014r\uFFFD\uFFFD"
+							"evidence": "ZRD0h8iUMQHFxXQNWtqWzwewJbFyKvQg5WOIKOa2pYhiAMRbA8",
+							"otherinfo": "e\\x0010\uFFFD\u02141\\x0001\uFFFD\uFFFDt\rZ\u0696\uFFFD\\x0007\uFFFD%\uFFFDr*\uFFFD \uFFFDc\uFFFD(\u6DA5\uFFFDb\\x0000\uFFFD[\\x0003"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
@@ -606,41 +606,41 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "6fSEPwAUqvlYKxnVSCuHVn0X4W5i9J380xtVzG724R2ilSrzVFbYHKg",
-							"otherinfo": "\uFFFD\uFFFD?\\x0000\\x0014\uFFFD\uFFFDX+\\x0019\uFFFDH+\uFFFDV}\\x0017\uFFFDnb\uFFFD\uFFFD\uFFFD\uFFFD\\x001bU\uFFFDn\uFFFD\uFFFD\\x001d\uFFFD\uFFFD*\uFFFDTV\uFFFD\\x001c\uFFFD"
+							"evidence": "2F5A0LRcUHYW7A613XsvdeZhLC6kk6G",
+							"otherinfo": "\uFFFD^@\u0434\\Pv\\x0016\uFFFD\\x000e\uFFFD\uFFFD{/u\uFFFDa,.\uFFFD\uFFFD\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "2BYeqFBsnjLJNjcp9eBRuuCrPDwzpEVPMK0Po2FPnD0ApUw",
-							"otherinfo": "\uFFFD\\x0016\\x001e\uFFFDPl\uFFFD2\uFFFD67)\uFFFD\uFFFDQ\uFFFD\uFFFD<<3\uFFFDEO0\uFFFD\\x000f\uFFFDaO\uFFFD=\\x0000\uFFFDL"
+							"evidence": "MQd442S92kv2wKUjF66PwnPzwUZLuD8FndyGS0zymqwcakUOovwicni1",
+							"otherinfo": "1\\x0007x\uFFFDd\uFFFD\uFFFDK\uFFFD\uFFFD\uFFFD#\\x0017\uFFFD\uFFFD\uFFFDs\uFFFD\uFFFDFK\uFFFD?\\x0005\uFFFD\u0706KL\uFFFD\\x001cjE\\x000e\uFFFD\uFFFD\"rx\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/robots.txt",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "2FpjKHU0kJX2sjxUSAgXdnCxVeQ6gGl06bydSBQp8r7EkQ18rVUU",
-							"otherinfo": "\uFFFDZc(u4\uFFFD\uFFFD\uFFFD\uFFFD<TH\\x0008\\x0017vp\uFFFDU\uFFFD:\uFFFDit\u9F1DH\\x0014)\uFFFD\u0111\r|\uFFFDU\\x0014"
+							"evidence": "2F7QsHSzzw9rQ90wRdeMfR4ANs9ioDjg",
+							"otherinfo": "\uFFFD^\u0430t\uFFFD\uFFFD\\x000fkC\uFFFD0E\u05CC}\\x001e\\x00006\uFFFDb\uFFFD8\uFFFD"
 						},
 						{
 							"uri": "https://www.didier-segura.fr/sitemap.xml",
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=",
-							"otherinfo": "\uFFFDPNG\r\n\\x001a\n\\x0000\\x0000\\x0000\rIHDR\\x0000\\x0000\\x0000 \\x0000\\x0000\\x0000 \\x0008\\x0006\\x0000\\x0000\\x0000szz\uFFFD\\x0000\\x0000\\x0000\\x0019tEXtSoftware\\x0000Adobe ImageReadyq\uFFFDe<\\x0000\\x0000\\x0003$iTXtXML:com.adobe.xmp\\x0000\\x0000\\x0000\\x0000\\x0000<?xpacket begin=\"\uFEFF\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <rdf:Description rdf:about=\"\" xmlns:xmp=\"http://ns.adobe.com/xap/1.0/\" xmlns:xmpMM=\"http://ns.adobe.com/xap/1.0/mm/\" xmlns:stRef=\"http://ns.adobe.com/xap/1.0/sType/ResourceRef#\" xmp:CreatorTool=\"Adobe Photoshop CS6 (Macintosh)\" xmpMM:InstanceID=\"xmp.iid:E16BD67DB3F011E2AD3DB1C4D5AE5C96\" xmpMM:DocumentID=\"xmp.did:E16BD67EB3F011E2AD3DB1C4D5AE5C96\"> <xmpMM:DerivedFrom stRef:instanceID=\"xmp.iid:E16BD67BB3F011E2AD3DB1C4D5AE5C96\" stRef:documentID=\"xmp.did:E16BD67CB3F011E2AD3DB1C4D5AE5C96\"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end=\"r\"?>H\uFFFDL\\x0008\\x0000\\x0000\\x0003\uFFFDIDATx\uFFFD\uFFFDW]H\uFFFDQ\\x0018\uFFFD\uFFFD>u\u04E9\uFFFD\uFFFD9oJ)\n\\x0002\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\"!\uFFFD\\x0008\uFFFD\u0332K\uFFFD\uFFFD\u89AE*\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\t\uFFFD(S\uFFFD\uFFFD\uFFFD0\n\uFFFD\uFFFD2\uFFFD.\uFFFD!\\x0015\uFFFD\u021F\uFFFD\uFFFD\uFFFDm\uFFFD\uFFFD\uFFFD<c\uFFFD\uFFFD\uFFFD\\x001c\uFFFD\u0720\\x0003\\x001f\uFFFD\uFFFD\uFFFD<\uFFFDy\uFFFD\uFFFD\uFFFD\\x0019\uFFFDGF\r\u064C\uFFFD\uFFFD\uFFFD\uFFFDP(\u053A\uFFFD\uFFFD\uFFFD'\\x001a\uFFFD6\uFFFDi\uFFFD\uFFFD\uFFFDV\uFFFD\\x0019\uFFFDF\uFFFD\uFFFDi\uFFFDx>\uFFFD\uFFFD\uFFFD\uFFFD6\uFFFD\uFFFDO\uFFFD\\x0010\uFFFDlp\uFFFD+\t\uFFFDD\"\uFFFD\uFFFD~\uFFFD\uFFFD`0x\\x0008\uFFFD\uFFFD!\uFFFD\\x0011\uFFFDX,=V\uFFFD\uFFFDrQQ\uFFFD\u042A\\x0004\uFFFD\u0115^\uFFFD\uFFFDJ \\x00108\uFFFDu\uFFFD\u054Dxii\uFFFD\u074A\uFFFD\uFFFD\u04F0\uFFFDG\uFFFD@\uFFFDN====\\x0004\uFFFD\uFFFD<\uFFFD\\x0013\\x0007$\\x0006\uFFFD\uFFFD\uFFFD\uFFFD\\x0000\uFFFD\uFFFD\uFFFD\uFFFDv\uFFFD\uFFFD\uFFFDb\r\uFFFD\\x0002\rb\\x0011\uFFFD\uFFFD\uFFFD\n\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD^\\x0004W\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD&\uFFFDT\\x0000|n\u01C2\uFFFDtrD\uFFFD\\x0017Dt\\x000f\uFFFD\u071B\uFFFD\uFFFD{\uFFFD\uFFFD\\x0013\uFFFDM\uFFFD\\x000c\\x0001\\x0008\uFFFD\uFFFD0U}:Hyy\uFFFDE\uFFFD\uFFFD\uFFFD\uFFFDr\uFFFD\uFFFD6\uFFFD\uFFFD\\x001d\uFFFD4\uFFFDJ;D\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD~>\uFFFD\uFFFD\uFFFD%\\x0000\uFFFD\uFFFDk\uFFFD\uFFFD{\uFFFD\uFFFDsG=\uFFFD\uFFFDd\\x0001\u0332\\x0015\uFFFD\uFFFD^\uFFFD\uFFFD\uFFFD\uFFFDf\uFFFDL\uFFFD\\x000c<u8\uFFFDw\uFFFD\uFFFD\u0749\u06B0\\x0001\\x0002\uFFFD\uFFFDG<\uFFFD\uFFFD\\x0000{P\uFFFD\uFFFD\r\uFFFD\\x001f\\x0012\\x0016\uFFFD\uFFFD|\uFFFD\\x0014\uFFFD4-a\\x00000\u023FJ\uFFFD\\x0013\uFFFD8'I7\uFFFD\\x000c8\uFFFD)p\"\\x0017*\uFFFDAE:n\uFFFD7\uFFFDT\\x0018\uFFFD$\uFFFD@\uFFFDk\uFFFD\uFFFD4\uFFFDL\uFFFD\\x0010D\uFFFD\uFFFD\\x0015@\\x000c`\uFFFD\uFFFDY\uFFFD\uFFFD\"\\x001c\\x000e\uFFFD\uFFFD6\"x\uFFFD\u00DC\uFFFD\uFFFD\n \\x0006\uFFFD.\uFFFD\uFFFD\uFFFD-`\uFFFDFY\uFFFD\uFFFD\u01C5\uFFFD\\x0001I\uFFFD\uFFFD\uFFFD=\uFFFDB\uFFFDzI\uFFFD\uFFFDV\uFFFD\uFFFDUZ\uFFFDCLI\uFFFD\uFFFD\\x0017(\\x000e\\x0016I\\x0011\t\\x0017\uFFFD\\x0012\\x00023\"\uFFFD\uFFFD\\x0016\uFFFD\uFFFD\u0775\uFFFD\\x0016\\x0000L\uFFFD\uFFFD:P\uFFFD(+G\uFFFD8\\x000bEN,bJ\uFFFD\uFFFD\\x0013(\\x001e#\uFFFD<\uFFFD_(\\x0001*,r\\x000b\uFFFD\uFFFDA\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\\x001c:\uFFFD\u5196\uFFFD\uFFFD\\x0018\uFFFD\\x0016\uFFFD\uFFFD\uFFFD\\x0014\\x0015\uFFFD\uFFFD\uFFFD\uFFFDt\uFFFD\uFFFDN\\x000cb\uFFFD\uFFFD\uFFFD-\uFFFD\uFFFD\uFFFD\u12C0\uFFFD\n\uFFFDsss\uFFFDX2W\\x0011tu\uFFFDK\\x000cEV\\x0004\u021D\\x0008B\uFFFDm\uFFFDR\\x0013h$\uFFFD\uFFFD\uFFFD\uFFFDw\uFFFD}\uFFFDw\uFFFD\uFFFD\u00D3\uFFFD\uFFFD\uFFFD\\x0000{\uFFFD\uFFFD\uFFFD8oN\uFFFD\\x0005\uFFFD\uFFFD\uFFFD\uFFFD\\x0000\uFFFDI\uFFFD\uFFFD=SSSc\u072B\\x0012HNr'\uFFFDc\uFFFD]\uFFFD\r\uFFFD\\x0010\uFFFDf&\\x0001\uFFFD\uFFFD3eee7gff\uFFFD\\x0001\uFFFD]W\uFFFDzy\uFFFDs\uFFFD\uFFFDP\uFFFDx\u063AgQ\\x0013BN\uFFFDs#\uFFFD\u04F8HV\uFFFDq\uFFFD\uFFFDRj\uFFFD\uFFFD0\uFFFDH\uFFFD\uFFFD~D\uFFFD`\uFFFD5\ty\"{\uFFFDs+\\x000er\uFFFDS\u07D6kl\\x001cq\uFFFD\uFFFD\\x0000yYUU\uFFFD\\x000f\uFFFD\uFFFD\uFFFDTm\uFFFD[\uFFFD\\x0006\\x0002\uFFFD\uFFFD\uFFFD\uFFFD\uFFFDd\uFFFD\uFFFDLLLL-G\\x000e\u05FE\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD]\uFFFD`\uFFFD\uFFFD\\x0001t6\uFFFD\uFFFD^YY\uFFFD\tW\uFFFD\u0221\uFFFD\uFFFD `N\uFFFD\uFFFD\uFFFD6\\x000c\uFFFD]\uFFFD\\x001b&\uFFFD\\x001f&\uFFFD\uFFFD\uFFFD\uFFFD}\\x001fD\uFFFDO*\\x001e\uFFFD\u07DFb\uFFFD4\\x0005B\uFFFDu\uFFFD0W\\x0001 \uFFFD\\x0001\uFFFD\uFFFD\uFFFD\uFFFDV\uFFFD2\\x0002\uFFFD\\x0003Q\\x001f}|F\\x0005C\uFFFDi\uFFFD\uFFFD\uFFFD\uFFFD\\x0008\uFFFD\uFFFD^ \uFFFD\uFFFD\uFFFD\uFFFD\\x000b\uFFFDj\"\uFFFD\uFFFD\\x0000\uFFFD\uFFFD\uFFFD<y\\x001e\u05F0\\x001b\\x0018'\uFFFD\uFFFDjn\uFFFD\\x0015\uFFFD\uFFFD\uFFFD\uFFFD#\uFFFD\\x0001r\uFFFD\\x00035\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\u02E4W\\x0010D3$\uFFFD\uFFFD\uFFFDp\u05EDT\uFFFD\uFFFD\u0703\uFFFD7\uFFFD\uFFFD\uFFFDO\uFFFD\\x0001\\x0000\uFFFDe9*\uFFFD}d\\x0005\\x0000\\x0000\\x0000\\x0000IEND\uFFFDB`\uFFFD"
+							"evidence": "2BJyzFNu6qpWHwTGIvB77FwNm1yUP2l93VSIA3bwV2XcQiWTZmofokv",
+							"otherinfo": "\uFFFD\\x0012r\uFFFDSn\uFFFDV\\x001f\\x0004\uFFFD\"\uFFFD{\uFFFD\\\r\uFFFD\\\uFFFD?i}\uFFFDT\uFFFD\\x0003v\uFFFDWe\uFFFDB%\uFFFDfj\\x001f\uFFFDK"
 						}
 					],
 					"count": "11",
 					"solution": "<p>Manually confirm that the Base64 data does not leak sensitive information, and that the data cannot be aggregated/used to exploit other vulnerabilities.</p>",
-					"otherinfo": "<p>\\x0014\uFFFDh\uFFFDl\uFFFD\\x001dud\uFFFD\uFFFD{O\uFFFD\uFFFD2\\x0011\uFFFD\uFFFDm\uFFFD\uFFFDK\uFFFD\uFFFD\\x0013q\\x0000</p>",
+					"otherinfo": "<p>\uFFFD\\x0011\\x000fS\\x000e\uFFFD\\x0019\uFFFD,\uFFFD\\x0010s\uFFFD\uFFFD\uFFFD\uFFFD\\x000e$\uFFFD\u0539~\\x001a\uFFFD\\x0003+\uFFFD\uFFFD\uFFFD\\x001cQ\uFFFDW\uFFFD\\x0016^+\uFFFD\uFFFDpq\uFFFD7\uFFFD\uFFFD\uFFFD</p>",
 					"reference": "<p>https://projects.webappsec.org/w/page/13246936/Information%20Leakage</p>",
 					"cweid": "200",
 					"wascid": "13",
-					"sourceid": "7"
+					"sourceid": "1"
 				},
 				{
 					"pluginid": "10055",
@@ -702,7 +702,7 @@
 					"reference": "",
 					"cweid": "200",
 					"wascid": "13",
-					"sourceid": "32"
+					"sourceid": "24"
 				},
 				{
 					"pluginid": "10015",
@@ -778,7 +778,7 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "Age: 210",
+							"evidence": "Age: 190",
 							"otherinfo": "The presence of the 'Age' header indicates that that a HTTP/1.1 compliant caching server is in use."
 						},
 						{
@@ -786,7 +786,7 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "Age: 118",
+							"evidence": "Age: 94",
 							"otherinfo": "The presence of the 'Age' header indicates that that a HTTP/1.1 compliant caching server is in use."
 						},
 						{
@@ -794,7 +794,7 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "Age: 210",
+							"evidence": "Age: 190",
 							"otherinfo": "The presence of the 'Age' header indicates that that a HTTP/1.1 compliant caching server is in use."
 						},
 						{
@@ -802,7 +802,7 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "Age: 209",
+							"evidence": "Age: 190",
 							"otherinfo": "The presence of the 'Age' header indicates that that a HTTP/1.1 compliant caching server is in use."
 						},
 						{
@@ -810,7 +810,7 @@
 							"method": "GET",
 							"param": "",
 							"attack": "",
-							"evidence": "Age: 119",
+							"evidence": "Age: 94",
 							"otherinfo": "The presence of the 'Age' header indicates that that a HTTP/1.1 compliant caching server is in use."
 						},
 						{
@@ -849,7 +849,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+							"uri": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
 							"method": "GET",
 							"param": "Sec-Fetch-Dest",
 							"attack": "",
@@ -857,7 +857,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/robots.txt",
+							"uri": "https://www.didier-segura.fr/sitemap.xml",
 							"method": "GET",
 							"param": "Sec-Fetch-Dest",
 							"attack": "",
@@ -892,7 +892,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+							"uri": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
 							"method": "GET",
 							"param": "Sec-Fetch-Mode",
 							"attack": "",
@@ -900,7 +900,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/robots.txt",
+							"uri": "https://www.didier-segura.fr/sitemap.xml",
 							"method": "GET",
 							"param": "Sec-Fetch-Mode",
 							"attack": "",
@@ -935,7 +935,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+							"uri": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
 							"method": "GET",
 							"param": "Sec-Fetch-Site",
 							"attack": "",
@@ -943,7 +943,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/robots.txt",
+							"uri": "https://www.didier-segura.fr/sitemap.xml",
 							"method": "GET",
 							"param": "Sec-Fetch-Site",
 							"attack": "",
@@ -978,7 +978,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/cdn-cgi/l/email-protection",
+							"uri": "https://www.didier-segura.fr/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
 							"method": "GET",
 							"param": "Sec-Fetch-User",
 							"attack": "",
@@ -986,7 +986,7 @@
 							"otherinfo": ""
 						},
 						{
-							"uri": "https://www.didier-segura.fr/robots.txt",
+							"uri": "https://www.didier-segura.fr/sitemap.xml",
 							"method": "GET",
 							"param": "Sec-Fetch-User",
 							"attack": "",

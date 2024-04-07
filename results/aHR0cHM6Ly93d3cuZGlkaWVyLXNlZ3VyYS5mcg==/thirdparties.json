@@ -10,7 +10,7 @@
     },
     {
       "type": "google analytics",
-      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=1720701897&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1022757727&gjid=1572850703&cid=2078427515.1711846475&tid=GTM-5XKV5HMQ&_gid=2043072218.1711846475&_r=1&_slc=1&z=740243427",
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j101&a=326510192&t=pageview&_s=1&dl=https%3A%2F%2Fwww.didier-segura.fr%2F&ul=en-us&de=UTF-8&dt=Didier%20SEGURA%20%7C%20%F0%9F%92%BC%20-%20C.V&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEABAAAAACAAI~&jid=1864848376&gjid=1970830865&cid=663512564.1712451282&tid=GTM-5XKV5HMQ&_gid=214388380.1712451282&_r=1&_slc=1&z=730574900",
       "details": {
         "id": "google analytics",
         "message": "Use hosted Matomo instance"
@@ -20,18 +20,18 @@
   "cookies": [],
   "headers": {
     "access-control-allow-origin": "*",
-    "age": "30",
+    "age": "0",
     "alt-svc": "h3=\":443\"; ma=86400",
     "cache-control": "max-age=600",
     "cf-cache-status": "DYNAMIC",
-    "cf-ray": "86cc5e706adbfa72-SJC",
+    "cf-ray": "87060c3f2fc03104-LAX",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "date": "Sun, 31 Mar 2024 00:54:34 GMT",
-    "expires": "Sun, 31 Mar 2024 01:04:04 GMT",
+    "date": "Sun, 07 Apr 2024 00:54:41 GMT",
+    "expires": "Sun, 07 Apr 2024 01:04:08 GMT",
     "last-modified": "Wed, 13 Mar 2024 14:07:20 GMT",
     "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
-    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=378hrCpI9jH9XTDxfZKwVT9fvSW4OW%2FfcLfutGBW58nJzQ4n5CEUWtTI2S9MOVfNakcxy3vTPBASah328SywBttGIOu%2BXyV30MnkryMtkXBxGoSJMytCtQdzXzC1ZIap6Cip0Wie1Q%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ywRffZlhsER5yyAyYPz3CM3xZLPF8Qsg3AU03jcCUPS6l%2BlmVBMLYc%2B2w4eHikbMVDQ3QlBPZC0hK5ADkjCLxvOxrqiNlWwyibvaZxa%2FaPj4eTToAs6ac4mGcdE%2B0dwZZ1N6ymR48g%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "strict-transport-security": "max-age=0; preload",
     "vary": "Accept-Encoding",
@@ -39,51 +39,17 @@
     "x-cache": "HIT",
     "x-cache-hits": "1",
     "x-content-type-options": "nosniff",
-    "x-fastly-request-id": "6b389138597767bcad73adbba98a64bdc6e529a4",
-    "x-github-request-id": "C450:5DD69:710286:84E580:6608B42B",
+    "x-fastly-request-id": "b282bddf3e14189be4e7f39ddb5083156da397f7",
+    "x-github-request-id": "AB0C:3FB052:1B4CDC0:1FD2F00:6611EEAF",
     "x-proxy-cache": "MISS",
-    "x-served-by": "cache-sjc10083-SJC",
-    "x-timer": "S1711846474.329716,VS0,VE1"
+    "x-served-by": "cache-bur-kbur8200067-BUR",
+    "x-timer": "S1712451282.795065,VS0,VE66"
   },
   "endpoints": [
     {
       "hostname": "www.didier-segura.fr",
-      "ip": "172.67.221.24",
+      "ip": "104.21.70.72",
       "geoip": {
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "location": {
-          "accuracy_radius": 1000,
-          "latitude": 37.751,
-          "longitude": -97.822,
-          "time_zone": "America/Chicago"
-        },
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -102,8 +68,14 @@
     },
     {
       "hostname": "www.google-analytics.com",
-      "ip": "216.239.34.178",
+      "ip": "142.251.40.46",
       "geoip": {
+        "city": {
+          "geoname_id": 5133273,
+          "names": {
+            "en": "Queens"
+          }
+        },
         "continent": {
           "code": "NA",
           "geoname_id": 6255149,
@@ -133,10 +105,14 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
-          "latitude": 34.0544,
-          "longitude": -118.244,
-          "time_zone": "America/Los_Angeles"
+          "accuracy_radius": 50,
+          "latitude": 40.66,
+          "longitude": -73.839,
+          "metro_code": 501,
+          "time_zone": "America/New_York"
+        },
+        "postal": {
+          "code": "11414"
         },
         "registered_country": {
           "geoname_id": 6252001,
@@ -154,17 +130,17 @@
         },
         "subdivisions": [
           {
-            "geoname_id": 5332921,
-            "iso_code": "CA",
+            "geoname_id": 5128638,
+            "iso_code": "NY",
             "names": {
-              "de": "Kalifornien",
-              "en": "California",
-              "es": "California",
-              "fr": "Californie",
-              "ja": "カリフォルニア州",
-              "pt-BR": "Califórnia",
-              "ru": "Калифорния",
-              "zh-CN": "加州"
+              "de": "New York",
+              "en": "New York",
+              "es": "Nueva York",
+              "fr": "New York",
+              "ja": "ニューヨーク州",
+              "pt-BR": "Nova Iorque",
+              "ru": "Нью-Йорк",
+              "zh-CN": "纽约州"
             }
           }
         ]
